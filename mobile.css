@@ -1,0 +1,240 @@
+@media only screen and (max-width: 950px) {
+
+    body {
+        font-family: 'Roboto', sans-serif;
+        ;
+    }
+
+    .fff {
+        display: none;
+    }
+
+    header .ig1 img {
+        width: 50px;
+        height: 23px;
+        position: absolute;
+        left: 2%;
+    }
+
+    header .fa-bars {
+        display: block;
+        position: absolute;
+        right: 4%;
+        line-height: 1.6;
+    }
+
+    header nav {
+        display: none;
+    }
+
+    .rrr p {
+        font-size: 15px;
+    }
+
+    .rrr {
+        font-size: 10px;
+        height: auto;
+        padding-bottom: 5px;
+    }
+
+    .hhh h1 {
+        font-size: 27px;
+    }
+
+    .hhh p {
+        font-size: 14px;
+    }
+
+    .hhh button {
+        font-size: 14px;
+    }
+
+    .ig2 input {
+        display: none;
+    }
+
+    .sec1 .ss11{
+        width: 100%;
+    }
+
+    .sec1 .ss22 {
+        display: none;
+    }
+
+    .sec1 .ss33 {
+        display: none;
+    }
+
+    .trt h1 {
+        font-size: 31px;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    
+    .trt p {
+        font-size: 9px;
+        padding-top: 2%;
+        text-align: center;
+    }
+
+    .trt button {
+        background-color: #000;
+        color: #fff;
+        font-size: 13px;
+        padding: 6px 15px;
+        border: #000 2px solid;
+        border-radius: 20px;
+        margin-top: 16px;
+    }
+
+    .left p {
+        font-size: 13px;
+    }
+
+    .left span {
+        font-size: 12px;
+        right: 4%;
+        position: absolute;
+    }
+
+    .left span i {
+        background-color: #E5E5E5;
+        padding: 2px 4px;
+        border-radius: 8px;
+    }
+
+    .ghg {
+        width: 100%;
+        justify-content: space-between;
+        display: inline-flex;
+        margin-top: 2%;
+    }
+
+    .ghg2 {
+        display: none;
+    }
+
+    .ghg1{
+        width: 45%;
+    }
+
+    .ghg1 h4 {
+        font-size: 11px;
+    }
+
+    .ghg1 p {
+        font-size: 12px;
+        color: #696868;
+        padding: 0.5% 0;
+    }
+
+    .ghg3{
+        width: 45%;
+    }
+
+    .ghg3 h4 {
+        font-size: 11px;
+    }
+
+    .ghg3 p {
+        font-size: 14px;
+        color: #696868;
+        padding: 0.5% 0;
+    }
+
+    .hii p {
+        font-size: 30px;
+    }
+
+    .hello h1 {
+        font-size: 34px;
+        font-weight: bolder;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        margin-top: 2%;
+    }
+
+    .hello p {
+        font-size: 14px;
+        padding-top: 2%;
+        text-align: center;
+    }
+
+    .hello button {
+        background-color: #000;
+        color: #fff;
+        font-size: 12px;
+        padding: 6px 15px;
+        border: #000 2px solid;
+        border-radius: 20px;
+        margin-top: 18px;
+    }
+
+    .mmm p{
+        font-size: 30px;
+    }
+
+    .say h1 {
+        font-size: 30px;
+        font-weight: bolder;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+        text-align: center;
+        margin-top: 2%;
+    }
+
+    .say p {
+        font-size: 12px;
+        padding-top: 3%;
+        text-align: center;
+    }
+
+    .say button {
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        font-size: 11px;
+        padding: 6px 15px;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 20px;
+        margin-top: 14px;
+    }
+
+    .aaa p {
+        font-size: 30px;
+    }
+
+    .grey h1 {
+        font-size: 30px;
+        font-weight: bolder;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+        text-align: center;
+    }
+
+    .grey p {
+        font-size: 12px;
+        padding-top: 2%;
+        text-align: center;
+    }
+
+    .grey button {
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        font-size: 12px;
+        padding: 6px 15px;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 20px;
+        margin-top: 20px;
+    }
+
+    .fr1 p {
+        font-size: 21px;
+        margin-top: 8%;
+    }
+
+    .right span i {
+        background-color: #E5E5E5;
+        padding: 3px 4px;
+        border-radius: 20px;
+    }
+
+}
